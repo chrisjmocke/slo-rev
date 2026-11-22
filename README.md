@@ -41,10 +41,11 @@ slo-rev has three pages. Swipe left or right, or tap the **< >** arrows at the b
 
 | Page | What's on it |
 |---|---|
-| **1** | Speed, Pitch, Volume, and YouTube. **FULL** shows just the video. |
+| **1** | Speed, Pitch, Volume, and YouTube. The **full / exit** switch at the bottom left shows just the video. |
 | **2** | Reverb, Pre-verb, Decay, High pass, Low pass, Tape, Delay, Delay beat, and the Low / Mid / High EQ |
 | **3** | The video on its own, with sliders for its look: Colour, Contrast, Saturation, Brightness and VHS Grain |
 
+- The **on / off** switch (top right of page 1) is a quick before-and-after: **off** plays the original at normal speed with no effects, and it fades smoothly between the two. Your knob settings stay as they are.
 - Your settings are remembered.
 - The **≡** menu (top left of page 1) links to more apps from KatBok Studios.
 - **Other apps:** leave slo-rev running and play music in another app. Its sound comes out processed.
